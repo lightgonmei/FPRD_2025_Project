@@ -1,0 +1,8 @@
+Flask==3.0.3        #done
+pandas==2.2.3       #done
+numpy==1.26.4       #done
+scikit-learn==1.5.2 #done
+matplotlib==3.9.2   #done
+seaborn==0.13.2     #done
+nltk==3.9.1         #done
+joblib==1.4.2       #done
